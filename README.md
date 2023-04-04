@@ -2,8 +2,8 @@
 
 # Austin Kobie
 
-**`Software Engineer<br>
- Python|Julia|JavaScript|React|HTML|CSS`**
+<p>Software Engineer <br>
+ Python|Julia|JavaScript|React|HTML|CSS</p>
 
 <!--
 **AustinKobie/AustinKobie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
