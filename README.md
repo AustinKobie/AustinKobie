@@ -2,7 +2,7 @@
 
 # Austin Kobie
 
-**`Software Engineer
+**`Software Engineer<br>
  Python|Julia|JavaScript|React|HTML|CSS`**
 
 <!--
@@ -17,4 +17,4 @@
 
 #### Always looking for new opportunities. Connect with me on:
 
-[<a href="https://www.linkedin.com/in/austin-kobie/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>]
+<a href="https://www.linkedin.com/in/austin-kobie/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
