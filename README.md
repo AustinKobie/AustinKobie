@@ -29,8 +29,8 @@ Overall, I'm a passionate and dedicated software engineer with a broad range of 
 <p float="left">
 <img width="32px" title="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 <img width="32px" title="Julia" src="https://user-images.githubusercontent.com/2529329/47639358-7062af80-db37-11e8-8679-42b233b424fa.jpg">
-<img width="32px" title="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
 <img width="32px" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" />
+<img width="32px" title="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
 <img width="32px" title="HTML" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" />
 <img width="32px" title="CSS" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
 <img width="32px" title="PhotoShop" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirHxQzoWPUFgJlbSq2gVRsXZjZ_cxygZL7OKlpKk5DI_rWHQf4gGOFh_BKjKax2wb7OY&usqp=CAU" />
