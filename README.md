@@ -26,7 +26,7 @@ In addition to my work as a software engineer, I love to travel and explore the 
 Overall, I'm a passionate and dedicated software engineer with a broad range of skills and a love for innovation. Whether I'm working on a personal project or collaborating with a team, I always strive to create something that is not only functional but also user-friendly and visually appealing.</p>
 
 #### Langauges & Tools:
-
+<p float="left">
 <img width="32px" title="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 <img width="32px" title="Julia" src="https://user-images.githubusercontent.com/2529329/47639358-7062af80-db37-11e8-8679-42b233b424fa.jpg">
 <img width="32px" title="JavaScript" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" />
@@ -35,6 +35,7 @@ Overall, I'm a passionate and dedicated software engineer with a broad range of 
 <img width="32px" title="CSS" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
 <img width="32px" title="PhotoShop" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirHxQzoWPUFgJlbSq2gVRsXZjZ_cxygZL7OKlpKk5DI_rWHQf4gGOFh_BKjKax2wb7OY&usqp=CAU" />
 <img width="32px"  title="XD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
+</p>
 
 #### Always looking for new opportunities. Connect with me on:
 
