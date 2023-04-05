@@ -1,4 +1,4 @@
-<h1 color ="D83553" align="center"> Austin Kobie </h1>
+<h1 style="color:D83553;" align="center"> Austin Kobie </h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=D83553&center=true&width=435&lines=FullStack+SoftWare+Engineer;UI%2FUX+Designer;Constantly+Improving+my+craft;Open+for+work%2FNew+opportunities!"/>
 </p>
