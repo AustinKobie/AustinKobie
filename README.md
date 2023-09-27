@@ -4,8 +4,8 @@
 </p>
 <!-- Social icons -->
 <p align="center">
-<a href="https://www.instagram.com/austinkobie/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/M6yBwxS.png"/></a>
-<a href="https://twitter.com/AustinKobie"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/></a>
+<a href="https://www.instagram.com/austinkobie/"><img width="32px" alt="Instagram" title="Instagram" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"/></a>
+<a href="https://twitter.com/AustinKobie"><img width="32px" alt="Twitter" title="Twitter" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"/></a>
 <a href="https://discord.gg/H5bEg3sD"><img width="32px" alt="Discord" title="Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/></a>
 <a href="https://www.linkedin.com/in/austin-kobie/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
 </p>
